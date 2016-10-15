@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I enjoy building great software components. I am currently working on Big data and Analytics use-cases. I want to share about the challenges I face and the solutions I tried.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am happiest when I spend time with my kids. I also play cricket with my friends on sundays.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ffarozan@gmail.com](mailto:ffarozan@gmail.com)
